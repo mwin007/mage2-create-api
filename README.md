@@ -8,3 +8,8 @@
 php bin/magento setup:upgrade
 php bin/magento cache:flush
 php bin/magento indexer:reindex
+
+# 3.  Check the database for following table.
+
+
+# 4.  Test with API testing software such as Postman.
